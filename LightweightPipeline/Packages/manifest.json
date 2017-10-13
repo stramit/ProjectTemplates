@@ -1,6 +1,6 @@
 {
     "registry": "https://staging-packages.unity.com",
     "dependencies": {
-    	"com.unity.postprocessing": "0.1.1"
+    	"com.unity.render-pipelines": "0.1.5"
     }
 }
